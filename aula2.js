@@ -8,6 +8,16 @@ let pessoa = {
     sexo: 'Masculino'
 };
 
+let pessoa2 = {
+
+    nome: 'Maria Eduarda',
+    idade: 18,
+    estaAprovado: false,
+    sobrenome: 'não sei',
+    sexo: 'Feminino'
+};
+
+
 //Arrays
 
 //Criação de um array com 3 posições
@@ -19,10 +29,9 @@ console.log(familia[2]);
 //Vendo o tamnho do array
 console.log('O tamanho do array é: ' + familia.length);
 
-let pessoas = [pessoa];
+let pessoas = [pessoa, pessoa2];
 
 console.log(pessoas[0].nome);
 
-let numero = prompt('Digite um número')
+console.log(pessoas[1].nome);
 
-console.log(numero)
