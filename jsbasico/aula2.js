@@ -33,6 +33,5 @@ let pessoas = [pessoa, pessoa2];
 
 console.log(pessoas[0].nome);
 
-
 console.log(pessoas[1].nome);
 
