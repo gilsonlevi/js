@@ -1,1 +1,1 @@
-# Repositório para estudos e projetos feitos com HTML,CSS e JavaScript
+# Repositório para estudos e projetos feitos com JavaScript
