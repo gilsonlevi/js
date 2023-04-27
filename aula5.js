@@ -42,16 +42,16 @@
 //Operador lógico - &&
 //Retorna TRUE se os dois operandos forem true
 
-let maiorDeIdade = false;
-let possuiCarteiraDeTrabalho = true;
-let podeAplicar = maiorDeIdade && possuiCarteiraDeTrabalho;
+// let maiorDeIdade = false;
+// let possuiCarteiraDeTrabalho = true;
+// let podeAplicar = maiorDeIdade && possuiCarteiraDeTrabalho;
 
-console.log(podeAplicar);
+// console.log(podeAplicar);
 
-//Operador lógico - ||      
+// //Operador lógico - ||      
 
-maiorDeIdade = false;
-possuiCarteiraDeTrabalho = true;
-podeAplicar = maiorDeIdade || possuiCarteiraDeTrabalho;
+// maiorDeIdade = false;
+// possuiCarteiraDeTrabalho = true;
+// podeAplicar = maiorDeIdade || possuiCarteiraDeTrabalho;
 
-console.log(podeAplicar);
+// console.log(podeAplicar);
