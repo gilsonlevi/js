@@ -71,13 +71,23 @@
 
 //For..In
 
-const pessoa = {
-    nome: 'Levi',
-    idade: 18,
-}
+// const pessoa = {
+//     nome: 'Levi',
+//     idade: 18,
+// }
 
-for(let chave in pessoa){
-    console.log(chave, pessoa['nome'])
-}
+// for(let chave in pessoa){
+//     console.log(chave, pessoa['nome'])
+// }
 
 const cores = ["Vermehlo", "Azul", "Verde"];
+
+
+//For-of
+
+for(let cor of cores){
+    console.log(cor);
+}
+
+
+
